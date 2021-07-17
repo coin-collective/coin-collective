@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coin-collective
-- 👀 I’m interested in data science and fintech.
-- 🌱 I’m currently learning Python and SQL.
+- 👀 I’m interested in cloud computing, data science, and fintech.
+- 🌱 I’m currently learning AWS, Python, and SQL.
 - 💞️ I’m looking to collaborate on programming education for finance minded folks.
 - 📫 How to reach me coincollective.atl@gmail.com
 
